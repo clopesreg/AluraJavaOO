@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\clope\Desktop\devPrograms\Alura\Alura - OrientaçãoObjetos\.metadata\.plugins\org.eclipse.jdt.core
+2702459774.index
+1865797976.index
+1222848938.index
+1509799344.index
+2157897666.index
